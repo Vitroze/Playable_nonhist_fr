@@ -9,4 +9,4 @@ tags={
 }
 name="Non-Historical Mode Made Actually Playable (Traduction FR)"
 picture="thumbnail.png"
-supported_version="1.16.4"
+supported_version="1.17.3.0"
